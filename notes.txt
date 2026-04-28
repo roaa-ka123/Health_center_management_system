@@ -1,0 +1,12 @@
+email:
+admin@healthcenter.com
+--------------------
+password:
+
+password
+---------------------
+tasnim-k@gmail.com/password
+المريض
+------------------------
+mariam@gmail.com/password
+الموظف
